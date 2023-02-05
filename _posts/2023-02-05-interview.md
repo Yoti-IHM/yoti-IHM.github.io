@@ -1,5 +1,9 @@
-layout: page
+---
+layout: post
 title: "Interview avec une étudiante"
+date: 2023-02-05 20:33:21 -0000
+categories: Interview
+---
 
 #Interview avec une étudiante
 
