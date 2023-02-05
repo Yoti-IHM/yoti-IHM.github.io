@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Interview avec une étudiante"
-date: 2023-02-05 20:33:21 -0000
 categories: Interview
 ---
 
-#Interview avec une étudiante
+# Interview avec une étudiante
 
 Cette page retranscrit l'interview faite avec une étudiante en école d'animation.
 
@@ -19,11 +18,9 @@ Ton: [00:00:24] Très bien, bon et bien, bonjour.
 
 Etu: [00:00:28] Bonjour.
 
-Ton: [00:00:30] Je vais vous interviewer aujourd'hui, interviewer à propos de notre projet qu'on doit faire pour notre UE Interaction homme machine. 
-				Pour ce projet, le thème imposé était la carte. Nous avons choisi au début d'une application de type Google Maps, mais cependant, nous nous sommes rapidement rendu compte qu'il était très difficile d'obtenir des besoins pertinents pour en faire des interviews.
-				Donc nous avons opté pour un thème qui est les achats en magasin, avec une application pourrait géolocaliser des produits. 
-				
-				Avez vous des questions pour l'instant?
+Ton: [00:00:30] Je vais vous interviewer aujourd'hui, interviewer à propos de notre projet qu'on doit faire pour notre UE Interaction homme machine.
+
+Avez vous des questions pour l'instant?
 
 Etu: [00:01:14]	Non. 
 

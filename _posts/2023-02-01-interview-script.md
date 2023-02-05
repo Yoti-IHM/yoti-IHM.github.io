@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Script de l'interview (v1)"
+categories: Interview
 ---
 
 # Script de l'interview
