@@ -10,25 +10,21 @@ categories: Interview
 
 **Réponse :** *C'était hier, j'ai fait quelques courses.*
 
-**Q2 :** *Et tu as passé à peu près combien de temps en magasin ?
-*
+**Q2 :** *Et tu as passé à peu près combien de temps en magasin ?*
 
 **Réponse :** *Je dirais environ 25 minutes.*
 
-**Q3 :** * Combien de magasins as tu fait ?*
+**Q3 :** *Combien de magasins as tu fait ?*
 
 **Réponse :** *Un seulement*
 
 **Q4 :** *Et comment ça s'est déroulé ? Est-ce que tu as galéré à trouver les produits que tu cherchais ?*
 
-**Réponse :** *Non ça va, c'était une supérette où j'ai l'habitude de faire mes courses, donc je savais où trouver quoi.
-*
+**Réponse :** *Non ça va, c'était une supérette où j'ai l'habitude de faire mes courses, donc je savais où trouver quoi.*
 
-**Q5 :** *: Ah d'accord, donc tu es allé au magasin en sachant quels produits seraient disponibles ou non?
-*
+**Q5 :** *Ah d'accord, donc tu es allé au magasin en sachant quels produits seraient disponibles ou non?*
 
-**Réponse :** *Oui c'est ça, c'est une la supérette de mon quartier donc je suis tout le temps à jour sur leurs produits vu que j'y vais fréquemment.
-*
+**Réponse :** *Oui c'est ça, c'est une la supérette de mon quartier donc je suis tout le temps à jour sur leurs produits vu que j'y vais fréquemment.*
 
 **Q6 :** *C’était quand la dernière fois que tu as dû faire plusieurs magasins pour trouver un produit ?*
 
@@ -46,18 +42,18 @@ categories: Interview
 
 **Réponse :** *Ouai une fois, j'étais dans une fripperie et j'ai rencontré un gars, on a discuté un peu, c'était cool. Après on a pas échangé nos contacts c'était juste sur le moment tu vois, si c'était une fille j'aurais pris son numéro.*
 
-**Q10 :** *D'accord je vois, donc t'as bien aimé ? *
+**Q10 :** *D'accord je vois, donc t'as bien aimé ?*
 
-**Réponse :** * Ouai franchement c'était un échange sympa.*
+**Réponse :** *Ouai franchement c'était un échange sympa.*
 
-**Q11 :** * Si c'était à refaire tu le referais ou tu préfère être seul ?*
+**Q11 :** *Si c'était à refaire tu le referais ou tu préfère être seul ?*
 
-**Réponse :** *Ouai non pourquoi pas. *
+**Réponse :** *Ouai non pourquoi pas.*
 
-**Q12 :** *Est-ce que tu regarde souvent la différence de prix entre les produit ? *
+**Q12 :** *Est-ce que tu regarde souvent la différence de prix entre les produit ?*
 
-**Réponse :** *Biensure. Impérativement. *
+**Réponse :** *Biensure. Impérativement.*
 
-**Q13 :** *Et préfère-tu prendre plus de temps pour aller chercher un produit et payer moins cher ou cela t’es égal ? *
+**Q13 :** *Et préfère-tu prendre plus de temps pour aller chercher un produit et payer moins cher ou cela t’es égal ?*
 
-**Réponse :** *Oui totalement, que ça soit en ligne ou pas, j'accorde pas mal de temps à ça. Bon du coup bah ça me bouffe du temps mais bon, tous pour payer moins cher (rire). *
+**Réponse :** *Oui totalement, que ça soit en ligne ou pas, j'accorde pas mal de temps à ça. Bon du coup bah ça me bouffe du temps mais bon, tous pour payer moins cher (rire).*
