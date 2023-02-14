@@ -21,7 +21,7 @@ timezone:
 
 title: Projet YOTI                          # the main title
 
-tagline: Interaction Homme Machine   # it will display as the sub-title
+tagline: Interaction Humain Machine   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Notre projet d'IHM à Sorbonne Université.
