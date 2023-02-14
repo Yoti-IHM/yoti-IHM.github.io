@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Interview avec une étudiante, follow up"
+title: "[UPDATED] Interview avec une étudiante"
 date: 2023-02-14 20:51:14 -0000
 categories: Interview
 ---
 
-# Interview avec une étudiante
+# [UPDATED] Interview avec une étudiante
 
 Cette page retranscrit l'interview faite avec une étudiante en école d'animation.
 
