@@ -1,12 +1,32 @@
 ---
 layout: post
 title: "Interview avec une étudiante"
+date: 2023-02-05 20:33:21 -0000
 categories: Interview
 ---
 
-# Interview avec une étudiante
+#Interview avec une étudiante
 
 Cette page retranscrit l'interview faite avec une étudiante en école d'animation.
+
+---
+
+**Màj** Cette partie à été rajouté le 14-02-2023, durant un échange en message privé avec l'étudiante, ajoutant un peu plus sur l'interview qui a été fait la dernière fois. L'interview faite précédemment est toujours disponible plus bas.
+
+**Ton:** Bonjour, on se retrouve pour continuer et approfondir un peu plus sur notre interview de la dernère fois.
+Tu peux m'en parler un peu plus de la fois de pourquoi tu te perds? si t'as des exemples sur les fois où c'est arrivé, ce serait génial.
+
+**Etu:** Oui donc la dernière fois je disais que y'a souvent pas assez de panneaux et genre ils ne sont pas assez clair dans la plupart des magasins je trouve. Genre la dernière fois que j'étais allé acheté mon jeu Pokémon, je le trouvais, et pourtant j'avais cherché. J'ai failli croire que je c'étais comme dans le premier magasin, et que il était en plus en stock. J'ai du faire, je sais pas, genre 5-6 tours dans le magasins puis j'ai abandonné. Je voulais pas demander à un employé tellement j'avais c'était la honte, de me voir tourner en rond pendant 30 min haha.
+
+**Ton:** Et donc comment tu l'as trouvé au final?
+
+**Etu:** Bah en fait, tu vas pas le croire, mais au moment ou j'allais partir, je jette un coup d'oeil dans le coin à la sortie du magasin, à côté des caisses, et la je vois le jeu. Je te raconte pas comment j'en avais marre, mais le pire c'est qu'au moment d'aller finalement le chercher, le vendeur à commencer à me raconter comment c'était un super jeu et à me lire la jaquette. Bref j'en avais ras le cul.
+
+**Ton:** Haha, je vois, et tu te retrouves souvent dans des cas comme ça?
+
+**Etu:** Oui, oui, ça me rappel aussi la fois ou j'avais pas trouvé de bouteille d'eau dans un magasin dont je m'en souviens plus trop du mon. Donc, tu vois, après les cours, j'avais super soif. Genre il était 18h et j'avais rien d'eau de la journée. Je cherche un peu et je vais dans le premier supermarché que je vois, un où j'étais encore jamais allé.Je file direct au fond du magasin, parce qu'on est daccord, que dans tout les magasins, d'habitude le rayon boissons, bah c'est au fond.Le magasin était un peu grand tu vois, donc ça ma pris un peu de temps à aller tout derrière. Mais tu vois le problème, c'était pas de l'eau que j'ai trouvé mais du papier toilettes.Donc au final j'ai du repartir de derrière pour aller trouver de l'eau, sauf que y'avait juste pas de panneaux et aussi pas d'employés visiblement. Donc ça ma aussi prit 3h pour trouver juste ma pauvre bouteille d'eau. Ils devraient vraiment standardiser le layout des magasins mais ça c'est juste mon avis.
+
+---
 
 Ton: [00:00:00] C'est en train de record? Ok il enregistre maintenant. Est ce que vous êtes prêts? 
 				*Pause* 
@@ -18,9 +38,10 @@ Ton: [00:00:24] Très bien, bon et bien, bonjour.
 
 Etu: [00:00:28] Bonjour.
 
-Ton: [00:00:30] Je vais vous interviewer aujourd'hui, interviewer à propos de notre projet qu'on doit faire pour notre UE Interaction homme machine.
-
-Avez vous des questions pour l'instant?
+Ton: [00:00:30] Je vais vous interviewer aujourd'hui, interviewer à propos de notre projet qu'on doit faire pour notre UE Interaction homme machine. 
+				Pour ce projet, le thème imposé était la carte. Nous avons choisi au début d'une application de type Google Maps, mais cependant, nous nous sommes rapidement rendu compte qu'il était très difficile d'obtenir des besoins pertinents pour en faire des interviews.
+				Donc nous avons opté pour un thème qui est les achats en magasin, avec une application pourrait géolocaliser des produits. 
+				Avez vous des questions pour l'instant?
 
 Etu: [00:01:14]	Non. 
 
